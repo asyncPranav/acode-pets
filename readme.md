@@ -7,6 +7,17 @@ Cats and dogs that **walk, run, sleep, jump, and react while you code**, inspire
 
 ---
 
+## Screenshots
+
+Here’s preview of the acode pets plugin in action:
+
+![Pet 1](./pet01.png)
+
+![Pet 2](./pet02.png)
+
+---
+
+
 ## ✨ Features
 
 - 🐱 Cat & Dog pets  
