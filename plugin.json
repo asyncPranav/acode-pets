@@ -1,0 +1,20 @@
+
+{
+  "id": "com.asyncpranav.acodepets",
+  "name": "Acode Pets",
+  "main": "dist/main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "minVersionCode": 290,
+  "price": 0,
+  "license": "MIT",
+  "keywords": ["acode-pets", "cat", "dog", "fun", "animation", "code-companion", "asyncpranav"],
+  "repository": "https://github.com/asyncpranav/acode-pets",
+  "author": {
+    "name": "asyncpranav",
+    "github": "asyncPranav"
+  },
+  "files": ["readme.md"]
+}
+
